@@ -1,10 +1,18 @@
 ## Hi ~  This is iris❤️
 
+I am a graduate student at Stevens Institute of Technology majoring in Machine Learning.
 You can use the [editor on GitHub](https://github.com/ZhangxiaoshiHAHAHA/iiiiiris/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
+
+**Stevens Institute of Technology**                                         02/2021-present
+Master of Computer Science in Machine Learning
+**Beijing Institute of Graphic Communication**                              09/2017-06/2020
+Master of Engineering in Electronics and Communication Engineering 
+**Beijing Institute of Graphic Communication**                              09/2013-06/2017
+Bachelor of Engineering in Digital Media Technology
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
