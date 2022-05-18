@@ -7,11 +7,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-**Stevens Institute of Technology**                                         02/2021-present
+**Stevens Institute of Technology** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 02/2021-present
+
 Master of Computer Science in Machine Learning
-**Beijing Institute of Graphic Communication**                              09/2017-06/2020
+
+**Beijing Institute of Graphic Communication** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 09/2017-06/2020
+
 Master of Engineering in Electronics and Communication Engineering 
-**Beijing Institute of Graphic Communication**                              09/2013-06/2017
+
+**Beijing Institute of Graphic Communication** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 09/2013-06/2017
+
 Bachelor of Engineering in Digital Media Technology
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
