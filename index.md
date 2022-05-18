@@ -1,8 +1,8 @@
 ## Hi ~  This is iris❤️
 
-I am a graduate student at Stevens Institute of Technology majoring in Machine Learning.
+I am a graduate student :woman_student: at Stevens Institute of Technology majoring in Machine Learning.
 
-### Education
+### EDUCATION
 
 **Stevens Institute of Technology** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; &emsp; 02/2021-present
 
@@ -38,10 +38,18 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### EXPERIENCE
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZhangxiaoshiHAHAHA/iiiiiris/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Computer Vision Research Assistant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 08/2018-06/2020
+ - Research based on image super-resolution, image style transfer and image segmentation.
+ - Design and implement algorithms in different programming and scripting languages for computer vision such as Python, MATLAB, etc.
+ - Leading undergraduate students and international students in Scientific Computing Engineering Lab, Beijing Institute of Graphic Communication.
 
-### Support or Contact
+**Teaching Assistant** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;08/2018-06/2020
+ - Graded 150+ assignments per grading period.
+ - Assisted in answering student’s questions, enabling the teacher to complete 97% of lessons plan on time.
+ - Established healthy relationships with students by actively supporting students with academic and behavioral aid.
+
+### SELECTED PROJECTS
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
